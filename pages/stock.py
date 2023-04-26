@@ -48,4 +48,3 @@ if "거래량" in selected_chart:
    px_volumne = px.bar(tickerDf[["Volume"]])
    px_volumne
 
-Footer
